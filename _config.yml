@@ -22,7 +22,7 @@ title: Accessibility in Video Games
 email: jgarcia3@olin.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This is an article about accessibility in Video Games. Yessir!
-baseurl: "/knight242.github.io" # the subpath of your site, e.g. /blog
+baseurl: /knight242.github.io # the subpath of your site, e.g. /blog
 url: https://knight242.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  knight242
 
